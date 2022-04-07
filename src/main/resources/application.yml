@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: smartOven
+netty:
+  default:
+    allocator:
+      max-order: 3
